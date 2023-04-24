@@ -1,0 +1,4 @@
+{
+  "endpoint": "api/undercooked-manatee",
+  "root": "stepzen/curl"
+}
